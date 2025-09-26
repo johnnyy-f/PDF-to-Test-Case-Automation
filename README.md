@@ -43,7 +43,7 @@ To get started, clone the repository and install the required dependencies.
 
 ```bash
 # Clone the project repository
-git clone [https://github.com/johnnyy-f/LLM-use.git]
+git clone [https://github.com/johnnyy-f/PDF-to-Test-Case-Automation.git]
 
 # Install all necessary Python libraries
 pip install -r requirements.txt

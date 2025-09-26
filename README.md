@@ -37,7 +37,7 @@ AZURE_OPENAI_API_VERSION="your_api_version"
 COMPLETION_DEPLOYMENT_NAME="your_deployment_name"
 ```
 
-### **📦 Installation**
+### **📦 Installation instructions**
 
 To get started, clone the repository and install the required dependencies.
 
